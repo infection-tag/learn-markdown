@@ -19,10 +19,10 @@ A pretty hastily concieved tutorial of markdown.
   * Images
 
 # FAQs
-Q: What can I do with Markdown?
+Q: What can I do with Markdown?  
 A: Create README files in git, and some other stuff.
 
-Q: What do I need?
+Q: What do I need?  
 A: A computer. Also internet connection. [And this website][dillinger].
 
 have a cat!
