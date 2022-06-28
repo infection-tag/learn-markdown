@@ -58,7 +58,7 @@ There are seven layers of headings. This is a basic thing about markdown, so I w
 ## Paragraphs
 A paragraph is simple. However, most markdown viewers are trash, and will not allow a line break unless you follow the convention.
 Say I wanted to type this:  
-`Hark!`
+`Hark!`  
 `Glory be!`  
 Without proper formatting, this nightmare would occur:  
 `Hark!Glory be!`
