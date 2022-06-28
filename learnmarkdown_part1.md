@@ -66,7 +66,7 @@ So, how do we create a new line? Simple! Just leave two spaces after a line.
 This is a bit hard to demonstrate, but let me show it like this;  
 `Hark!□□`
 `Glory be!` ; where □ represents one whitespace.
-Try it! (The next three lines are exercises.)
+Try it! (The next three lines are exercises.)  
 Fix this.
 Now.
 I can't make a newline!
