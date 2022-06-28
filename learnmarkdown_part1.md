@@ -67,6 +67,7 @@ This is a bit hard to demonstrate, but let me show it like this;
 `Hark!□□`
 `Glory be!` ; where □ represents one whitespace.
 Try it! (The next three lines are exercises.)  
+  
 Fix this.
 Now.
 I can't make a newline!
